@@ -1,0 +1,12 @@
+-Loaded program Arduino IDE
+-connect ESP32 with device
+-open program Arduino IDE
+-choose file 
+-click Example 
+-choose Basics
+-choose Blink
+-The code will appear on the screen 
+-click 
+-click Tools 
+-select port 
+-click
